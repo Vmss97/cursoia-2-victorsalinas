@@ -1,0 +1,14 @@
+# Go
+main.exe
+main
+*.exe
+*.dll
+*.so
+*.dylib
+go.sum
+
+# Node
+node_modules/
+dist/
+.env
+.DS_Store
